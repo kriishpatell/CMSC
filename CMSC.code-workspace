@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"256"
+		],
+		"java.project.referencedLibraries": {
+			"include": [
+				"lib/**/*.jar",
+				"bridges-java-3.3.0.jar",
+				"junit-4.13.2.jar",
+				"Referenced Libraries\\bridges-java-3.3.0.jar",
+				"Referenced Libraries\\hamcrest-core-1.3.jar",
+				"Referenced Libraries\\junit-4.13.2.jar"
+			],
+		}
+	}
+}
